@@ -17,10 +17,10 @@
 
 ## My Strategy
 
-* **The DSA Sheet:**  [Link to the DSA Sheet by Arsh]
+* **The DSA Sheet:**  https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit?usp=sharing
 * **Daily Grind:**  4+ questions per day, rain or shine!
 * **Track Progress:**
-    * GitHub: https://lnkd.in/ePRG5fsw (Update this with your actual repo links)
+    * GitHub: https://lnkd.in/ePRG5fsw
     * LeetCode: https://lnkd.in/eegiGZfe
     * GFG: https://lnkd.in/exxfsqiT
 

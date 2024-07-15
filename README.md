@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://lnkd.in/eegiGZfe)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-000000?style=flat-square&logo=GeeksforGeeks&logoColor=green)](https://lnkd.in/exxfsqiT)
 
-**Leveling Up for the Next 45-60 Days!**
+## Leveling Up for the Next 45-60 Days!
 
 **Welcome, fellow career conquerors!** This repository houses my solution for the [#CrackYourPlacement](#crackyourplacement) challenge. I'm excited to share my learning journey and the questions I've solved.
 
